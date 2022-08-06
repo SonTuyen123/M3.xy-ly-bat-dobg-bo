@@ -1,0 +1,12 @@
+{
+  "name": "M3.Xử lý bất đồng bộ 1",
+  "version": "1.0.0",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^18.6.4",
+    "@types/readline-sync": "^1.4.4"
+  }
+}
