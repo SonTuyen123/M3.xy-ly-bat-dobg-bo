@@ -17,13 +17,3 @@ rl.question("Input the time ", (timeInput) => {
     startTimer();
     rl.close()
 });
-//cach 2:
-// const prompt = require('prompt-sync')()
-// const time = prompt('input the time');
-// runTime(time)
-//
-// function runTime(time) {
-//     setTimeout(() => {
-//         console.log("counter finished");
-//     }, Number(time) * 1000)
-// }
